@@ -1,0 +1,8 @@
+Added Component: Designator=D6(DO-35)
+Added Pin To Net: NetName=NetM1_2 Pin=D6-1
+Change Net Name : Old Net Name=NetM1_2 New Net Name=NetD6_1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=M1-1
+Added Pin To Net: NetName=NetD6_2 Pin=P4-1
+Added Net: Name=NetD6_2
+Added Member To Class: ClassName=SensorRPM Member=Component D6 Diode 1N4148
